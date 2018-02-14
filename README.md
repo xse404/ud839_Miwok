@@ -45,3 +45,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+IMPORTANT: if you using gradle v3.0 or above, please visit this link 
+
+https://stackoverflow.com/questions/47829828/error-in-rendering-and-actionbar-overlay-layout
